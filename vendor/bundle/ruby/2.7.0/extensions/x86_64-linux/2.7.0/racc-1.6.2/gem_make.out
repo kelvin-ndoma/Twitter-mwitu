@@ -1,0 +1,17 @@
+current directory: /home/moringa/Desktop/Twitter-clone/twitter-mwitu/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+/home/moringa/.rbenv/versions/2.7.4/bin/ruby -I /home/moringa/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20230408-7359-1pt08tt.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/moringa/Desktop/Twitter-clone/twitter-mwitu/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/moringa/Desktop/Twitter-clone/twitter-mwitu/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/moringa/Desktop/Twitter-clone/twitter-mwitu/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230408-7359-zkp9k1/racc

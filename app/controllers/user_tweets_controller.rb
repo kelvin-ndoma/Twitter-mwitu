@@ -1,0 +1,2 @@
+class UserTweetsController < ApplicationController
+end
